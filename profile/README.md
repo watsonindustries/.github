@@ -12,4 +12,4 @@ To start contributing, simply fork one of our repositories and submit a pull req
 
 We also welcome new project ideas and proposals, please open a discussion or contact us directly.
 
-Want to always be up to date, and work on projects together? Check out CONTRIBUTING.
+Want to always be up to date, and work on projects together? Check out [CONTRIBUTING](https://github.com/watsonindustries/.github/blob/main/profile/CONTRIBUTING.md).
