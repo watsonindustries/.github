@@ -2,6 +2,8 @@
 
 Watson Industries is an open collective for non-profit fan projects related to Amelia Watson and other Hololive talents. We are a community of fans who are dedicated to creating fun and useful projects for others!
 
+All major inquiries to go [@DaniruKun](https://twitter.com/DaniruKun)
+
 ## Contributing
 
 We welcome contributions from anyone who is interested in our projects. Whether you are an artist, developer, or just a fan, there is a place for you in our community.
