@@ -1,6 +1,6 @@
 # About
 
-Watson Industries is an open collective for non-profit fan projects related to Amelia Watson and other Hololive talents. We are a community of fans who are dedicated to creating fun and useful projects for others!
+We are a Doujin Circle (同人) making software for the VTuber and anime communities that people love!
 
 All major inquiries to go [@DaniruKun](https://twitter.com/DaniruKun)
 
